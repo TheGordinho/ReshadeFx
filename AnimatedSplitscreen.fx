@@ -5,7 +5,7 @@
 	Animated Splitscreen (version 2.whatever)
 
 	Author: CeeJay.dk
-	Yoinked: TheGordinho
+	Yoinker: TheGordinho
 	License: MIT
 
 	About:
